@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "ionic-plant-animal-favorites",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
