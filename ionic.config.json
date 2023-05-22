@@ -1,8 +1,7 @@
 {
   "name": "ionic-plant-animal-favorites",
   "integrations": {
-    "cordova": {},
     "capacitor": {}
   },
-  "type": "angular"
+  "type": "custom"
 }

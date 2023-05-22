@@ -1,6 +1,8 @@
 {
-	"appId": "com.example.app",
+	"appId": "ionic.plant.animal.favorites",
 	"appName": "ionic-plant-animal-favorites",
 	"webDir": "www",
-	"bundledWebRuntime": false
+	"server": {
+		"androidScheme": "https"
+	}
 }

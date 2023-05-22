@@ -1,4 +1,4 @@
-package com.example.app;
+package ionic.plant.animal.favorites;
 
 import com.getcapacitor.BridgeActivity;
 
